@@ -1,0 +1,32 @@
+body {
+    background-color: steelblue;
+}
+
+h1 {
+  color: yellow;
+}
+
+.items {
+    text-align: center;
+}
+
+.place {
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    margin: 20px 10px;
+}
+
+.place p {
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.place img {
+    width: 45%;
+    height: 180px;
+    display: inline-block;
+
+}
